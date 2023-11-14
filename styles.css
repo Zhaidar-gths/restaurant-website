@@ -132,3 +132,48 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 19px;
 }
+.text_5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 160%;
+    color: peru;
+    text-align: center;
+
+}
+
+.text_5-1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+.text_5-2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+}
+
+.coll {
+    background-color: peru;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    border-color: peru;
+    margin: 5px 93px;}
+
+ #good-food{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 160%;
+    color: peru;
+ }
+
+#serv{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#information{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}

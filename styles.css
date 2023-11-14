@@ -177,3 +177,82 @@
     font-size: 25px;
 
 }
+#adress{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+#Amjilt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    text-align: center;
+    color: darkgray;
+}
+.special{
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  .special h4{
+    color: orange;
+  }
+  
+  .bluda{
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+  }
+  
+  .bluda h5{
+    color:gray;
+  } 
+  
+  .beshbarmak{
+    border-radius: 5px;
+    padding: 50px;
+    background-color: white;
+    width: 120px;
+    height: 210px;
+    border-style: outset;
+  }
+  
+  .manty{
+    border-radius: 5px;
+    padding: 50px;
+    background-color: white;
+    width: 120px;
+    height: 210px;
+    border-style: outset;
+  }
+  
+  .plov{
+    border-radius: 5px;
+    padding: 50px;
+    background-color: white;
+    width: 120px;
+    height: 210px;
+    border-style: outset;
+  }
+  
+  .talk{
+    text-align: left;
+    padding: 150px;
+  }
+  
+  .talk h3{
+    color: orange;
+    font-family: sans-serif;
+  }
+  
+  .talk h1{
+    font-family: sans-serif;
+  }
+  
+  .btn2{
+    background-color: sienna;
+    width: 300px;
+    color:white;
+    height: 50px;
+    margin-top: 20px;
+  }
